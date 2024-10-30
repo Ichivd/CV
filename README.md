@@ -8,15 +8,15 @@
 ## Experiencia Laboral
 
  **Programación Unity**
- Breathe - Sporty Tuna
+ - Breathe - Sporty Tuna
 
- Don’t Mess With Granny - Sporty Tuna
+ - Don’t Mess With Granny - Sporty Tuna
 
-There Is a Box in The Sky - Gaming Boxer
+ - There Is a Box in The Sky - Gaming Boxer
 
 **OTROS**
 
-Icebreaker - Juego de cartas
+ - Icebreaker - Juego de cartas
 
 
 
