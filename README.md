@@ -25,7 +25,7 @@ Icebreaker - Juego de cartas
 - **Diseño y Desarrollo de Videojuegos - UDIT**  
     Cursando actualmente la especialidad de Programación
 
-    **Bachiller**
+-  **Bachiller**
     IES El Medano
  
 
@@ -39,3 +39,4 @@ Icebreaker - Juego de cartas
 ## Contacto
 - **Email:** : iciafernandezf@gmail.com
 - **Telefono** :  610525222
+
