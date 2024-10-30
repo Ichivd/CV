@@ -6,7 +6,7 @@
  Actualmente mejorando mis habilidades en C++, Unity y Unreal Engine, con un fuerte enfoque en el desarrollo de mecánicas de juego y shaders.
 
 ## Experiencia Laboral
-- 
+
  **Programación Unity**
  Breathe - Sporty Tuna
 
@@ -37,5 +37,5 @@ Icebreaker - Juego de cartas
 
 
 ## Contacto
-- **Email:** iciafernandezf@gmail.com
-- **Telefono** 610525222
+- **Email:** : iciafernandezf@gmail.com
+- **Telefono** :  610525222
